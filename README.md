@@ -22,3 +22,9 @@ This project is a work-in-progress. It is missing key game state functionality.
 - return to menu menu button
 - score tracking
 - styling, other than default
+
+# Execution
+Simply clone this repo somehwere onto your machine
+If you do not have Qt Creator, download Qt Creator Community Edition
+When you are in Qt Creator, select 'Open Project', navigate to the local clone of this repo, and slect the `QtMineSweep.pro` file
+Execute the project by clicking the green play or run button.s
